@@ -1,4 +1,3 @@
-/* eslint has been dissabled */
 export default function updateStudentGradeByCity(
   students,
   city,
